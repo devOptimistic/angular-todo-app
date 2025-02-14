@@ -15,13 +15,21 @@ Not created yet.
 
 ## 🚀 Installation & Usage:
 1. Clone the repository:
-   git clone https://github.com/yourusername/angular-todo-app.git
+```sh
+git clone https://github.com/yourusername/angular-todo-app.git
+```
 2. Navigate to the project folder:
-  cd angular-todo-app
+```sh
+cd angular-todo-app
+```
 3. Install dependencies:
-  npm install
+```sh
+npm install
+```
 4. Run the development server:
-  ng serve
+```sh
+ng serve
+```
 5. Open your browser and visit:
    http://localhost:4200
 
